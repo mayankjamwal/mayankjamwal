@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayankjamwal
-- 👀 I’m interested in Web development, Javascript, Web 2.0, Web3.0, and how the web works generally.
-- 🌱 I’m currently learning Solidity, auditing.
-- 💞️ I’m looking to work in the blockchain space.
+- 👀 I’m interested in Programming, Python, Web 2.0, APIs, and how the web works generally.
+- 🌱 I’m currently learning Python, API, and development.
+- 💞️ I’m looking to work in the back-end space.
 - 📫 How to reach me : Mail @jamwalmayank75@gmail.com
 
 <!---
